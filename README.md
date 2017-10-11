@@ -1,1 +1,1 @@
-# uv-en-GB-theme
+# uv-is-IS-theme
